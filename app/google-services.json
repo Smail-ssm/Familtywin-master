@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060058548666",
+    "firebase_url": "https://familtywin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "familtywin",
+    "storage_bucket": "familtywin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060058548666:android:25901afcdc3d759e3bf583",
+        "android_client_info": {
+          "package_name": "com.xdev.familtywin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060058548666-jhk0jce9a2au8rqhm8jktffhd1s2apf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8Zz44iP81PffIOb55MRYg0a7ZsPpLfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060058548666-jhk0jce9a2au8rqhm8jktffhd1s2apf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
